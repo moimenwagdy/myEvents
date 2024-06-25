@@ -6,7 +6,8 @@ import {
   defer,
   Await,
 } from "react-router-dom";
-
+const rr = "dfs";
+console.log(rr);
 import EventItem from "../components/EventItem";
 
 function EventDetailPage() {
